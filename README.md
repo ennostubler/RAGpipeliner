@@ -1,0 +1,2 @@
+# RAGpipeliner
+RAG pipeline configurator
